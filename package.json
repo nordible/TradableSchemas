@@ -1,6 +1,6 @@
 {
   "name": "tradable-schemas",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Schemas of tradable instruments at any stock exchange",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
