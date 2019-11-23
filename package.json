@@ -31,6 +31,6 @@
     "dist/*"
   ],
   "dependencies": {
-    "@types/node": "^12.12.12",
+    "@types/node": "^12.12.12"
   }
 }
