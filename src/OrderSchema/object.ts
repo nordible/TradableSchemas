@@ -1,0 +1,18 @@
+export const OrderSchema: Object = {
+    variety: { type: String },
+    tradingsymbol: { type: String },
+    exchange: { type: String },
+    transaction_type: { type: String },
+    order_type: { type: String },
+    quantity: { type: Number },
+    product: { type: String },
+    price: { type: Number },
+    trigger_price: { type: Number },
+    stoploss: { type: Number },
+    squareoff: { type: Number },
+    trailing_stoploss: { type: Number },
+    disclosed_quantity: { type: Number },
+    validity: { type: String },
+    readonly: { type: Boolean },
+    tag: { type: String },
+};

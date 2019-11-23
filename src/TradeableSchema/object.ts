@@ -1,0 +1,16 @@
+export const TradeableSchema: Object = {
+    high: { type: Number },
+    low: { type: Number },
+    lastTradePrice: { type: Number },
+    faceValue: { type: Number },
+    openPrice: { type: Number },
+    percentChange: { type: Number },
+    previousClose: { type: Number },
+    change: { type: Number },
+    symbol: { type: String },
+    tradeVolumeInLac: { type: Number },
+    tradeVolumeInMillion: { type: Number },
+    week52High: { type: Number },
+    week52Low: { type: Number },
+    exchange: { type: String },
+};
