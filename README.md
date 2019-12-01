@@ -1,5 +1,15 @@
 Extremely basic skeleton code of a Node.js Typescript project with Lint support
 
+## Available schemas
+
+- OrderSchema
+- TradeableSchema
+
+## Available interfaces
+
+- IOrderSchema
+- ITradeableSchema
+
 ## Contributions welcome!
 
 [Open a new PR](https://github.com/nordible/TradableSchemas/pulls) here on GitHub.
