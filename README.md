@@ -1,4 +1,4 @@
-Extremely basic skeleton code of a Node.js Typescript project with Lint support
+Schemas of tradable instruments at any stock exchange
 
 ## Available schemas
 
