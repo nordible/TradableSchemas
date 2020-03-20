@@ -9,5 +9,6 @@ export const TradeableSchema: Object = {
     Interest: { type: String },
     NetProfit: { type: String },
     CashByMarketCap: { type: String },
-    TradeReceivables: { type: String }
+    TradeReceivables: { type: String },
+    Halal: { type: String },
 };

@@ -10,4 +10,5 @@ export interface ITradeableSchema {
     NetProfit: string;
     CashByMarketCap: string;
     TradeReceivables: string;
+    Halal: string;
 }
