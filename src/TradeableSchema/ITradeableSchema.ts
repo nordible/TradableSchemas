@@ -1,16 +1,13 @@
 export interface ITradeableSchema {
-    high?: number;
-    low?: number;
-    lastTradePrice?: number;
-    faceValue?: number;
-    openPrice?: number;
-    percentChange?: number;
-    previousClose?: number;
-    change?: number;
-    symbol?: string;
-    tradeVolumeInLac?: number;
-    tradeVolumeInMillion?: number;
-    week52High?: number;
-    week52Low?: number;
-    exchange?: string;
+    _id: string;
+    Name: string;
+    BSECode: string;
+    NSECode: string;
+    Industry: string;
+    Debt: string;
+    TotalAssets: string;
+    Interest: string;
+    NetProfit: string;
+    CashByMarketCap: string;
+    TradeReceivables: string;
 }
